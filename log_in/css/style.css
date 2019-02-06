@@ -686,7 +686,7 @@ header p {
 }
 
 footer {
-    background: #0D47A1
+    background: linear-gradient(#0D47A1 , rgba(7, 7, 0, 0.596)) 
 }
 
 footer a {
