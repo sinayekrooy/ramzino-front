@@ -1,6 +1,6 @@
 $(document).ready(function () {
     $(".owl-carousel").owlCarousel({
-        items: 10,
+        items: 4,
         loop: true,
         margin: 90,
         stagePadding:60,
@@ -15,13 +15,13 @@ $(document).ready(function () {
                 nav: false,
             },
             768: {
-                items: 2,
+                items: 1,
             },
             992: {
-                items: 5,
+                items: 1,
             },
             1200: {
-                items: 5,
+                items: 2,
                 center: true
 
             }
