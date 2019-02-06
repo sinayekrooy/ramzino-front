@@ -603,6 +603,7 @@ header p {
 }
 .tables table{
     font-family: iranyekan;
+    border: 1xp solid #000 !important
 }
 .coins h1 {
     color: #0D47A1;
