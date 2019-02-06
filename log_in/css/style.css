@@ -606,13 +606,13 @@ header p {
     border: 1xp solid #000 !important
 }
 .info img{
-    width: 90%;
-    height: 90%;
+    width: 60%;
+    height: 60%;
 }
 .info h4 p{
     font-family: iranyekan;
     font-weight: 800;
-    color: rgba(0, 0, 0, 0.555)
+    color: rgba(0, 0, 0, 0.377)
 }
 .coins h1 {
     color: #0D47A1;
