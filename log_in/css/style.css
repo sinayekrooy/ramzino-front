@@ -593,7 +593,17 @@ header p {
     background: #0D47A1;
 
 }
-
+.tables{
+    margin-top: 50px
+}
+.tables h1{
+    font-family: iranyekan;
+    color: #0D47A1;
+    font-weight: 800
+}
+.tables table{
+    font-family: iranyekan;
+}
 .coins h1 {
     color: #0D47A1;
     font-family: iranyekan;
