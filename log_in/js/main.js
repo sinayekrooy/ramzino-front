@@ -2,14 +2,11 @@ $(document).ready(function () {
     $(".owl-carousel").owlCarousel({
         items: 2,
         loop: true,
-        // navContainer : true ,
-        // center : true ,
         margin: 100,
         stagePadding:100,
         autoplay: true,
         autoplayTimeout: 2500,
         autoplayHoverPause: true,
-        // autoWidth:true,
         mergeFit:true,
         dotsEach:true,
         responsive: {
@@ -26,9 +23,7 @@ $(document).ready(function () {
                 items: 1,
             },
             1200: {
-                items: 2,
-                // center: true ,
-                
+                items: 2,                
             }
         }
     });
