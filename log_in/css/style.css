@@ -653,11 +653,17 @@ header p {
 .comments h3{
     font-family: iranyekan;
     font-weight: 700;
-    color: #0D47A1
+    color: #0D47A1;
+    /* text-align: left; */
+    padding-top: 25px;
+    text-align: center
+    
 }
 .comments p{
     font-family: iranyekan;
-    
+    line-height: 40px;
+    padding-right: 25px;
+
 }
 .owl-size {
     font-family: iranyekan;
