@@ -7,7 +7,7 @@ $(document).ready(function () {
         margin: 100,
         stagePadding:100,
         autoplay: true,
-        autoplayTimeout: 2000,
+        autoplayTimeout: 2500,
         autoplayHoverPause: true,
         // autoWidth:true,
         mergeFit:true,

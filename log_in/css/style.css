@@ -612,17 +612,22 @@ header p {
     width: 60%;
     height: 60%;
 }
-
-.info h4 p {
+.info h4{
+    font-family: iranyekan;
+    font-weight: 800
+}
+.info  p {
     font-family: iranyekan;
     font-weight: 800;
-    color: rgba(0, 0, 0, 0.377)
+    color: rgba(0, 0, 0, 0.377);
+    text-align: center;
+    padding: 0px 55px
 }
 
 .coins h1 {
     color: #0D47A1;
     font-family: iranyekan;
-    font-weight: 900;
+    font-weight: 800;
     direction: rtl !important;
     margin-top: 160px;
     margin-right: 50px;
