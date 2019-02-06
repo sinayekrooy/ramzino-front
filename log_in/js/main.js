@@ -2,6 +2,8 @@ $(document).ready(function () {
     $(".owl-carousel").owlCarousel({
         items: 2,
         loop: true,
+        navContainer : true ,
+        center : true ,
         margin: 10,
         stagePadding:10,
         autoplay: true,
@@ -22,8 +24,7 @@ $(document).ready(function () {
             },
             1200: {
                 items: 2,
-                center: true
-
+                center: true ,
             }
         }
     });
