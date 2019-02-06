@@ -283,7 +283,7 @@ header {
 }
 
 header p {
-    text-align: justify;
+    /* text-align: center; */
     direction: rtl
 }
 
@@ -335,7 +335,7 @@ header p {
 
     header p {
         color: #fff;
-        text-align: justify;
+        /* text-align: justify; */
         direction: rtl;
         font-family: iranyekan
     }
@@ -370,7 +370,7 @@ header p {
 
     header p {
         color: #fff;
-        text-align: justify;
+        /* text-align: justify; */
         direction: rtl;
         font-family: iranyekan
     }
@@ -405,7 +405,7 @@ header p {
 
     header p {
         color: #fff;
-        text-align: justify;
+        /* text-align: justify; */
         direction: rtl;
         font-family: iranyekan
     }
