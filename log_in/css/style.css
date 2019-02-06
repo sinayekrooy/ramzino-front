@@ -281,68 +281,76 @@ header {
     height: 90vh;
     background-size: 60% auto;
 }
-header p{
+
+header p {
     text-align: justify;
     direction: rtl
 }
 
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 992px) and (max-width: 1200px) {
 
     .header_info {
         background: #0D47A1;
         height: 100%;
     }
-    .anime{
+
+    .anime {
         display: none;
     }
-    header p{
+
+    header p {
         color: #fff;
         text-align: justify;
         direction: rtl;
         font-family: iranyekan
-
     }
-    header h1{
+
+    header h1 {
         color: #fff
     }
-    header button{
+
+    header button {
         background: #fff !important;
         color: #0D47A1 !important;
         border-radius: 10px
     }
-    header nav{
+
+    header nav {
         background: #fff !important
     }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
 
-    /* .header_info {
+    .header_info {
         background: #0D47A1;
         /* background: rgb(33, 225, 255);
         background: radial-gradient(circle, rgba(33, 225, 255, 1) 7%, rgba(33, 225, 255, 0.46011908181241246) 31%, rgba(255, 255, 255, 0.46852244315695024) 100%), url('../image/stripes-light.png'); */
         height: 100%;
-     */
-    .anime{
+    }
+
+    .anime {
         display: none;
     }
-    header p{
-        /* color: #fff; */
+
+    header p {
+        color: #fff;
         text-align: justify;
         direction: rtl;
         font-family: iranyekan
-
     }
-    header h1{
+
+    header h1 {
         color: #fff
     }
-    header button{
+
+    header button {
         background: #fff !important;
         color: #0D47A1 !important;
         border-radius: 10px
-
     }
-    header nav{
+
+    header nav {
         background: #fff !important
     }
 }
@@ -350,31 +358,34 @@ header p{
 @media (max-width: 767px) {
 
     .header_info {
-        background: #0D47A1;    
+        background: #0D47A1;
         /* background: rgb(33, 225, 255);
         background: radial-gradient(circle, rgba(33, 225, 255, 1) 7%, rgba(33, 225, 255, 0.46011908181241246) 31%, rgba(255, 255, 255, 0.46852244315695024) 100%), url('../image/stripes-light.png'); */
         height: 100%;
     }
-    .anime{
+
+    .anime {
         display: none;
     }
-    header p{
+
+    header p {
         color: #fff;
         text-align: justify;
         direction: rtl;
         font-family: iranyekan
-
     }
-    header h1{
+
+    header h1 {
         color: #fff
     }
-    header button{
+
+    header button {
         background: #fff !important;
         color: #0D47A1 !important;
         border-radius: 10px
-
     }
-    header nav{
+
+    header nav {
         background: #fff !important
     }
 }
@@ -383,37 +394,50 @@ header p{
 
     .header_info {
         background: #0D47A1
-        /* background: rgb(33, 225, 255);
+            /* background: rgb(33, 225, 255);
         background: radial-gradient(circle, rgba(33, 225, 255, 1) 7%, rgba(33, 225, 255, 0.46011908181241246) 31%, rgba(255, 255, 255, 0.46852244315695024) 100%), url('../image/stripes-light.png'); */
-        height: 100%;
+            height: 100%;
     }
-    .anime{
+
+    .anime {
         display: none;
     }
-    header p{
+
+    header p {
         color: #fff;
         text-align: justify;
         direction: rtl;
         font-family: iranyekan
     }
-    header h1{
+
+    header h1 {
         color: #fff;
     }
-    header button{
+
+    header button {
         background: #fff !important;
         color: #0D47A1 !important;
         border-radius: 10px
-
     }
-    header nav{
+
+    header nav {
         background: #fff !important
     }
+
+    #navbarNav {
+        background: rgba(255, 254, 254,1);
+        /* background: none */
+    }
 }
-.anime{
+
+.anime {
     position: absolute;
     top: 15%;
     left: 10%;
+    width: 100%;
+    height: 100%;
 }
+
 .bit_anime {
     float: left;
     margin-right: 50px;
@@ -425,7 +449,7 @@ header p{
 .eter_anime {
     float: left;
     margin-right: 50px;
-    padding-bottom: 50px;    
+    /* padding-top: 50px;     */
     height: 100px;
     width: 100px;
     animation: bitcoin 4s infinite;
@@ -436,7 +460,7 @@ header p{
     float: left;
     height: 130px;
     width: 130px;
- 
+
     animation: bitcoin 4s infinite;
 }
 
@@ -683,7 +707,8 @@ article h3 {
     color: #0D47A1;
     font-weight: 800
 }
-.slider a{
+
+.slider a {
     width: 100%;
 }
 
