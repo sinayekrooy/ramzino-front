@@ -605,6 +605,15 @@ header p {
     font-family: iranyekan;
     border: 1xp solid #000 !important
 }
+.info img{
+    width: 90%;
+    height: 90%;
+}
+.info h4 p{
+    font-family: iranyekan;
+    font-weight: 800;
+    color: rgba(0, 0, 0, 0.555)
+}
 .coins h1 {
     color: #0D47A1;
     font-family: iranyekan;
