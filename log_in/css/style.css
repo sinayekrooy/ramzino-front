@@ -629,8 +629,7 @@ header p {
 
 .owl-size{
     font-family: iranyekan;
-    width: 120%;
-    height: 100%;
+    padding: 5px;
 }
 
 .footer_logos img {
