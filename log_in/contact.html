@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
@@ -88,7 +89,7 @@
 
 
     </header>
-    
+
     <section class="contact-back">
         <div class="row">
             <div class="col-12 text-center">
@@ -98,18 +99,96 @@
     </section>
 
     <section class="map">
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
                 <div class="col-12 text-center">
                     <div class="mapouter ">
                         <div class="gmap_canvas">
-                            <iframe width="100%" height="100%" id="gmap_canvas" src="https://maps.google.com/maps?q=tabriz&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                            <iframe width="100%" height="100%" id="gmap_canvas" src="https://maps.google.com/maps?q=tabriz&t=&z=15&ie=UTF8&iwloc=&output=embed"
+                                frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
                             <a href="https://www.pureblack.de">pureblack.de</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+    </section>
+
+    <section>
+        <fieldse>
+            <legend>
+                <i class="fa fa-user-circle fa-2x" aria-hidden="true"> ارتباط با ما</i>
+            </legend>
+            <div class="container cont-form mb-5">
+                <div class="row">
+                    <div class="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7">
+                        <form>
+                            <div class="row mt-3">
+                                <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mt-3">
+                                    <div class="form-group">
+                                        <label for="exampleFormControlInput1">تلفن</label>
+                                        <input type="tel" class="form-control" id="exampleFormControlInput1">
+                                    </div>
+                                </div>
+                                <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mt-3">
+                                    <div class="form-group">
+                                        <label for="exampleFormControlInput1">ایمیل</label>
+                                        <input type="email" class="form-control" id="exampleFormControlInput1">
+                                    </div>
+                                </div>
+                                <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mt-3">
+                                    <div class="form-group">
+                                        <label for="exampleFormControlInput1">نام</label>
+                                        <input type="text" class="form-control" id="exampleFormControlInput1">
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <label for="exampleFormControlInput1">عنوان</label>
+                                        <input type="text" class="form-control" id="exampleFormControlInput1">
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <label for="exampleFormControlTextarea1">پیام</label>
+                                        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="g-recaptcha mt-2" data-sitekey="6LcePAATAAAAAGPRWgx90814DTjgt5sXnNbV5WaW"></div>
+                                </div>
+                                <div class="col-12 mt-3 mb-4">
+                                    <button type="button" class="btn btn-primary">ارسال پیام</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+
+                    <div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5">
+                        <div class="row mt-3">
+                            <div class="col-12 mt-3">
+                                <p>نشانی: تهران - یوسف آباد - کوچه بیستم - پلاک ۶۱ - واحد ۲</p>
+                            </div>
+                            <div class="col-12 col-sm-12 col-md-5 col-lg-5 col-lg-5 mt-3">
+                                <p>فکس: ۴۳۸۵۶۹۹۰ ۰۲۱</p>
+                            </div>
+                            <div class="col-12 col-sm-12 col-md-7 col-lg-7 col-lg-7 mt-3">
+                                <p>تلفن: ۴۱۲۳۹ ۰۲۱ و ۸۸۶۳۶۰۰۰ ۰۲۱</p>
+                            </div>
+                            <div class="col-12 mt-3">
+                                <p>کد پستی: ۱۴۳۱۹۶۵۳۷۱</p>
+                            </div>
+                            <div class="col-12 mt-3">
+                                <p>ساعات کاری: شنبه تا چهارشنبه از ساعت ۹ صبح الی ۵ بعد از ظهر</p>
+                            </div>
+                            <div class="col-12 mt-3 mb-2">
+                                <button type="button" class="btn btn-primary">پیگیری تیکت</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </fieldse>
     </section>
 
     <footer>
@@ -218,6 +297,7 @@
     <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
     <script src="jquery.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js?hl=fa'></script>
 </body>
 
 </html>

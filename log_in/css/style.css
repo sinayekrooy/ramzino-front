@@ -764,6 +764,35 @@ footer p {
     font-family: iranyekan;
 }
 
+.map{
+    margin: 35px;
+    padding: 50px;
+}
+
+.mapouter{
+    text-align:right;
+    height:400px;
+    width:100%;
+}
+
+.gmap_canvas {
+    border-radius: 20px;
+    overflow:hidden;
+    background:none!important;
+    height:400px;
+    width:100%;
+}
+
+.cont-form{
+    border: 1px solid rgb(172, 172, 172) ;
+    font-family: iranyekan;
+    border-radius: 10px;
+}
+
+.g-recaptcha{
+    float: right
+}
+
 .map {
     margin: 25px;
 
