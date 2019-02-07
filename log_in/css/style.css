@@ -779,3 +779,33 @@ footer p {
     height:100%;
     width:100%;
 }
+.about_us_article h1{
+    color: #0D47A1;
+    font-family: iranyekan;
+    font-weight: 800;
+    direction: rtl !important;
+    margin-top: 120px;
+    margin-right: 50px;
+
+}
+.about_us_article p{
+    font-family: iranyekan;
+    font-size: 24px;
+    margin-top: 52px;
+    padding-right: 50px
+}
+.header{
+    font-family: iranyekan
+}
+.header a {
+    font-family: iranyekan;
+    color: #000;
+    font-weight: 600
+}
+
+.header a:hover {
+    font-weight: 600;
+    color: #0D47A1;
+    border-top: 2px solid #0D47A1;
+    border-bottom-width: 2px;
+}
