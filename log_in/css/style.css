@@ -747,3 +747,7 @@ footer a:hover {
     left: 0;
     z-index: 1;
 }
+
+footer p {
+    color: rgb(209, 209, 209)
+}
