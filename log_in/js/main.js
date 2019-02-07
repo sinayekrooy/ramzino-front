@@ -29,3 +29,24 @@ $(document).ready(function () {
     });
 
 });
+$(document).ready(function () {
+
+   
+    //scroll button
+    $("header .header-scrolldown button").mouseover(function () {
+        $(this).text("SCROLL DOWN");
+        $(this).css({
+            "color": "gray",
+            "font-size": "11px"
+        });
+    })
+    $("header .header-scrolldown button").mouseleave(function () {
+        $(this).html('<i class="fas fa-angle-down"></i>');
+    })
+
+    //scroll it down 
+    $(function () {
+        $.scrollIt();
+    });
+
+})
