@@ -771,7 +771,7 @@ footer p {
 
 .mapouter{
     text-align:right;
-    height:400px;
+    height:400px !important;
     width:100%;
 }
 
@@ -853,4 +853,15 @@ footer p {
     font-family: iranyekan;
     font-weight: 800;
     /* display: inline-block; */
+}
+.forms{
+    position: relative;
+}
+.info_pos{
+    position: absolute;
+    top: -15px;
+    right: 13.5%;
+    background: #fff;
+    padding: 0px 15px;
+
 }
