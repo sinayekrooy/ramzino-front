@@ -823,5 +823,5 @@ footer p {
     color: #fff;
     font-family: iranyekan;
     font-weight: 800;
-    display: inline-block;
+    /* display: inline-block; */
 }
