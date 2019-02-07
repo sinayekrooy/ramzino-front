@@ -606,7 +606,7 @@ header p {
 
 .tables table {
     font-family: iranyekan;
-    border: 1xp solid #000 !important
+    
 }
 .info img{
     width: 30%;
@@ -648,7 +648,9 @@ header p {
 .comments h1{
     font-family: iranyekan;
     font-weight: 800;
-    color: #0D47A1
+    color: #0D47A1;
+    width: 100%;
+    text-align: center
 }
 .comments h3{
     font-family: iranyekan;
