@@ -751,3 +751,31 @@ footer a:hover {
 footer p {
     color: rgb(209, 209, 209)
 }
+
+/* contact page css start here  */
+
+.contact-back{
+    background-color: #0D47A1;
+    padding: 25px;
+    margin:20px 0 20px 0;
+    color: white;
+    font-family: iranyekan ;
+}
+
+.map{
+    margin: 25px;
+
+}
+
+.mapouter{
+    text-align:right;
+    height:100%;
+    width:100%;
+}
+
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+    height:100%;
+    width:100%;
+}
