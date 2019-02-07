@@ -324,7 +324,7 @@ header  .header-scrolldown button i {
         background-repeat: no-repeat;
         /* background-attachment: fixed; */
         background-position: top left;
-        height: 100vh;
+        height: 100%;
         background-size: 70% auto;
     }
 
