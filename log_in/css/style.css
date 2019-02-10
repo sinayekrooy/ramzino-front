@@ -125,38 +125,28 @@ html {
 
 @media (min-width: 1200px) {}
 
-.my_bg {
-    background: #0D47A1;
-    /* background: radial-gradient(circle, rgba(33, 225, 255, 0.9615196420365021) 11%, rgba(33, 225, 255, 1) 53%, rgba(13, 71, 161, 1) 97%); */
+.main{
+    position: relative;
+    background: url(../image/Technology.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    width: 100%;
     height: 100vh;
-
+    background-position: center;
+    background-size: 100%;
+    
+   
 }
-
-.my_bg h1 {
-    direction: rtl !important;
-    color: #fff;
-    font-family: iranyekan;
-    font-style: normal;
-    font-size: 800;
-    font-weight: 800;
-    padding-top: 50px;
-    text-align: center;
-    padding-left: 20px;
-    text-align: center;
+.log_in_scyle{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: rgba(72, 10, 143, 0.226);
+    z-index: 0;
+    width: 100%;
+    height: 100%;
+    filter: blur(5px);
 }
-
-.my_bg h3 {
-    direction: rtl !important;
-    color: #fff;
-    font-family: iranyekan;
-    font-style: normal;
-    font-size: 800;
-    padding-top: 10px;
-    text-align: center;
-    padding-left: 20px;
-    text-align: center;
-}
-
 .my_image {
     display: block;
     width: 75%;
