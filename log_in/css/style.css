@@ -3,11 +3,9 @@
     font-style: normal;
     font-weight: bold;
     src: url('../fonts/eot/iranyekanwebboldfanum.eot');
-    src: url('../fonts/eot/iranyekanwebboldfanum.eot?#iefix') format('embedded-opentype'),
-        /* IE6-8 */
-        url('../fonts/woff/iranyekanwebboldfanum.woff') format('woff'),
-        /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-        url('../fonts/ttf/iranyekanwebboldfanum.ttf') format('truetype');
+    src: url('../fonts/eot/iranyekanwebboldfanum.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../fonts/woff/iranyekanwebboldfanum.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/ttf/iranyekanwebboldfanum.ttf') format('truetype');
 }
 
 @font-face {
@@ -15,11 +13,9 @@
     font-style: normal;
     font-weight: 100;
     src: url('../fonts/eot/iranyekanwebthinfanum.eot');
-    src: url('../fonts/eot/iranyekanwebthinfanum.eot?#iefix') format('embedded-opentype'),
-        /* IE6-8 */
-        url('../fonts/woff/iranyekanwebthinfanum.woff') format('woff'),
-        /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-        url('../fonts/ttf/iranyekanwebthinfanum.ttf') format('truetype');
+    src: url('../fonts/eot/iranyekanwebthinfanum.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../fonts/woff/iranyekanwebthinfanum.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/ttf/iranyekanwebthinfanum.ttf') format('truetype');
 }
 
 @font-face {
@@ -27,11 +23,9 @@
     font-style: normal;
     font-weight: 300;
     src: url('../fonts/eot/iranyekanweblightfanum.eot');
-    src: url('../fonts/eot/iranyekanweblightfanum.eot?#iefix') format('embedded-opentype'),
-        /* IE6-8 */
-        url('../fonts/woff/iranyekanweblightfanum.woff') format('woff'),
-        /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-        url('../fonts/ttf/iranyekanweblightfanum.ttf') format('truetype');
+    src: url('../fonts/eot/iranyekanweblightfanum.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../fonts/woff/iranyekanweblightfanum.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/ttf/iranyekanweblightfanum.ttf') format('truetype');
 }
 
 @font-face {
@@ -39,11 +33,9 @@
     font-style: normal;
     font-weight: normal;
     src: url('../fonts/eot/iranyekanwebregularfanum.eot');
-    src: url('../fonts/eot/iranyekanwebregularfanum.eot?#iefix') format('embedded-opentype'),
-        /* IE6-8 */
-        url('../fonts/woff/iranyekanwebregularfanum.woff') format('woff'),
-        /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-        url('../fonts/ttf/iranyekanwebregularfanum.ttf') format('truetype');
+    src: url('../fonts/eot/iranyekanwebregularfanum.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../fonts/woff/iranyekanwebregularfanum.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/ttf/iranyekanwebregularfanum.ttf') format('truetype');
 }
 
 @font-face {
@@ -51,11 +43,9 @@
     font-style: normal;
     font-weight: 500;
     src: url('../fonts/eot/iranyekanwebmediumfanum.eot');
-    src: url('../fonts/eot/iranyekanwebmediumfanum.eot?#iefix') format('embedded-opentype'),
-        /* IE6-8 */
-        url('../fonts/woff/iranyekanwebmediumfanum.woff') format('woff'),
-        /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-        url('../fonts/ttf/iranyekanwebmediumfanum.ttf') format('truetype');
+    src: url('../fonts/eot/iranyekanwebmediumfanum.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../fonts/woff/iranyekanwebmediumfanum.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/ttf/iranyekanwebmediumfanum.ttf') format('truetype');
 }
 
 @font-face {
@@ -63,11 +53,9 @@
     font-style: normal;
     font-weight: 800;
     src: url('../fonts/eot/iranyekanwebextraboldfanum.eot');
-    src: url('../fonts/eot/iranyekanwebextraboldfanum.eot?#iefix') format('embedded-opentype'),
-        /* IE6-8 */
-        url('../fonts/woff/iranyekanwebextraboldfanum.woff') format('woff'),
-        /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-        url('../fonts/ttf/iranyekanwebextraboldfanum.ttf') format('truetype');
+    src: url('../fonts/eot/iranyekanwebextraboldfanum.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../fonts/woff/iranyekanwebextraboldfanum.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/ttf/iranyekanwebextraboldfanum.ttf') format('truetype');
 }
 
 @font-face {
@@ -75,11 +63,9 @@
     font-style: normal;
     font-weight: 900;
     src: url('../fonts/eot/iranyekanwebblackfanum.eot');
-    src: url('../fonts/eot/iranyekanwebblackfanum.eot?#iefix') format('embedded-opentype'),
-        /* IE6-8 */
-        url('../fonts/woff/iranyekanwebblackfanum.woff') format('woff'),
-        /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-        url('../fonts/ttf/iranyekanwebblackfanum.ttf') format('truetype');
+    src: url('../fonts/eot/iranyekanwebblackfanum.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../fonts/woff/iranyekanwebblackfanum.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/ttf/iranyekanwebblackfanum.ttf') format('truetype');
 }
 
 @font-face {
@@ -87,12 +73,19 @@
     font-style: normal;
     font-weight: 950;
     src: url('../fonts/eot/iranyekanwebextrablackfanum.eot');
-    src: url('../fonts/eot/iranyekanwebextrablackfanum.eot?#iefix') format('embedded-opentype'),
-        /* IE6-8 */
-        url('../fonts/woff/iranyekanwebextrablackfanum.woff') format('woff'),
-        /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-        url('../fonts/ttf/iranyekanwebextrablackfanum.ttf') format('truetype');
+    src: url('../fonts/eot/iranyekanwebextrablackfanum.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../fonts/woff/iranyekanwebextrablackfanum.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/ttf/iranyekanwebextrablackfanum.ttf') format('truetype');
 }
+
+@font-face {font-family: "Lovelo-LineLight";
+    src: url("../fonts/e24bfa421d3de384b7f93fca31ef5ad6.eot"); /* IE9*/
+    src: url("../fonts/e24bfa421d3de384b7f93fca31ef5ad6.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/e24bfa421d3de384b7f93fca31ef5ad6.woff2") format("woff2"), /* chrome、firefox */
+    url("../fonts/e24bfa421d3de384b7f93fca31ef5ad6.woff") format("woff"), /* chrome、firefox */
+    url("../fonts/e24bfa421d3de384b7f93fca31ef5ad6.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url("../fonts/e24bfa421d3de384b7f93fca31ef5ad6.svg#Lovelo-LineLight") format("svg"); /* iOS 4.1- */
+  }
 
 html {
     font-size: 1rem;
@@ -102,14 +95,11 @@ html {
     ...
 }
 
-
 @media (min-width: 576px) and (max-width: 767.98px) {
     html {
         font-size: 1.6rem;
     }
-
 }
-
 
 @media (min-width: 768px) and (max-width: 991.98px) {
     html {
@@ -125,36 +115,26 @@ html {
 
 @media (min-width: 1200px) {}
 
-.my_bg {
-    background: #0D47A1;
-    /* background: radial-gradient(circle, rgba(33, 225, 255, 0.9615196420365021) 11%, rgba(33, 225, 255, 1) 53%, rgba(13, 71, 161, 1) 97%); */
+.main {
+    position: relative;
+    background: url(../image/Technology.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    width: 100%;
     height: 100vh;
-
+    background-position: center;
+    background-size: 100%;
+    background-size: cover
 }
 
-.my_bg h1 {
-    direction: rtl !important;
-    color: #fff;
-    font-family: iranyekan;
-    font-style: normal;
-    font-size: 800;
-    font-weight: 800;
-    padding-top: 50px;
-    text-align: center;
-    padding-left: 20px;
-    text-align: center;
-}
-
-.my_bg h3 {
-    direction: rtl !important;
-    color: #fff;
-    font-family: iranyekan;
-    font-style: normal;
-    font-size: 800;
-    padding-top: 10px;
-    text-align: center;
-    padding-left: 20px;
-    text-align: center;
+.log_in_scyle {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: rgba(0, 0, 0, 0.733);
+    z-index: 0;
+    width: 100%;
+    height: 100%;
 }
 
 .my_image {
@@ -163,6 +143,28 @@ html {
     margin-left: auto;
     margin-right: auto;
     margin-top: 120px;
+}
+
+.main h1 {
+    color: #ffffff;
+    padding-top: 50px;
+    direction: ltr !important;
+    padding-right: 50px
+}
+
+.main p {
+    color: #ffffff;
+    text-align: center;
+    font-family: iranyekan;
+    line-height: 28px
+}
+
+.face_btn {
+    width: 100%;
+    padding: 0px 25px;
+    margin-right: 50px;
+    height: 40px;
+    margin-top: 20PX
 }
 
 .my_btn {
@@ -216,13 +218,20 @@ html {
 }
 
 .my_google {
-    /* padding-left: 120px; */
     margin-top: 20px;
-    width: 100%;
+    width: 80%;
     font-family: iranyekan;
     font-size: 23px;
-    height: 45px;
-    margin-bottom: 40px
+    height: 40px;
+    margin-bottom: 40px;
+    background: #fff;
+}
+
+.my_google p {
+    display: inline;
+    font-size: 15px;
+    color: #000;
+    margin-bottom: 25px !important;
 }
 
 input[type='text'] {
@@ -256,8 +265,9 @@ h3 {
 
 .zarin-img {
     height: 25px;
-    width: 150px;
-    margin-bottom: 5px
+    width: 25px;
+    margin-bottom: 5px;
+    vertical-align: middle;
 }
 
 .mainLoginInput::-webkit-input-placeholder {
@@ -317,7 +327,6 @@ header .header-scrolldown button i {
 }
 
 @media (min-width: 991px) and (max-width: 1200px) {
-
     header {
         position: relative;
         background: url(../image/header.svg);
@@ -327,121 +336,88 @@ header .header-scrolldown button i {
         height: 100%;
         background-size: 70% auto;
     }
-
     .anime {
         display: none;
-
     }
-
 }
 
 @media (min-width: 767px) and (max-width: 991px) {
-
     .header_info {
         background: #0D47A1;
-        /* background: rgb(33, 225, 255);
-        background: radial-gradient(circle, rgba(33, 225, 255, 1) 7%, rgba(33, 225, 255, 0.46011908181241246) 31%, rgba(255, 255, 255, 0.46852244315695024) 100%), url('../image/stripes-light.png'); */
         height: 100%;
     }
-
     .anime {
         display: none;
     }
-
     header p {
         color: #fff;
-        /* text-align: justify; */
         direction: rtl;
         font-family: iranyekan
     }
-
     header h1 {
         color: #fff
     }
-
     header button {
         background: #fff !important;
         color: #0D47A1 !important;
         border-radius: 10px
     }
-
     header nav {
         background: #fff !important
     }
 }
 
 @media (max-width: 767px) {
-
     .header_info {
         background: #0D47A1;
-        /* background: rgb(33, 225, 255);
-        background: radial-gradient(circle, rgba(33, 225, 255, 1) 7%, rgba(33, 225, 255, 0.46011908181241246) 31%, rgba(255, 255, 255, 0.46852244315695024) 100%), url('../image/stripes-light.png'); */
         height: 100%;
     }
-
     .anime {
         display: none;
     }
-
     header p {
         color: #fff;
-        /* text-align: justify; */
         direction: rtl;
         font-family: iranyekan
     }
-
     header h1 {
         color: #fff
     }
-
     header button {
         background: #fff !important;
         color: #0D47A1 !important;
         border-radius: 10px
     }
-
     header nav {
         background: #fff !important
     }
 }
 
 @media (max-width: 480px) {
-
     .header_info {
-        background: #0D47A1
-            /* background: rgb(33, 225, 255);
-        background: radial-gradient(circle, rgba(33, 225, 255, 1) 7%, rgba(33, 225, 255, 0.46011908181241246) 31%, rgba(255, 255, 255, 0.46852244315695024) 100%), url('../image/stripes-light.png'); */
-            height: 100%;
+        background: #0D47A1 height: 100%;
     }
-
     .anime {
         display: none;
     }
-
     header p {
         color: #fff;
-        /* text-align: justify; */
         direction: rtl;
         font-family: iranyekan
     }
-
     header h1 {
         color: #fff;
     }
-
     header button {
         background: #fff !important;
         color: #0D47A1 !important;
         border-radius: 10px
     }
-
     header nav {
         background: #fff !important
     }
-
     #navbarNav {
         background: rgba(255, 254, 254, 1);
-        /* background: none */
     }
 }
 .title-h {
@@ -458,7 +434,6 @@ nav {
     position: absolute;
     top: 15%;
     left: 10%;
-
 }
 
 .bit_anime {
@@ -472,23 +447,19 @@ nav {
 .eter_anime {
     float: left;
     margin-right: 50px;
-    /* padding-top: 50px;     */
     height: 100px;
     width: 100px;
     animation: bitcoin 4s infinite;
-
 }
 
 .ripel_anime {
     float: left;
     height: 130px;
     width: 130px;
-
     animation: bitcoin 4s infinite;
 }
 
 @-webkit-keyframes bitcoin {
-
     from,
     20%,
     53%,
@@ -499,7 +470,6 @@ nav {
         -webkit-transform: translate3d(0, 0, 0);
         transform: translate3d(0, 0, 0);
     }
-
     40%,
     43% {
         -webkit-animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
@@ -507,14 +477,12 @@ nav {
         -webkit-transform: translate3d(0, -30px, 0);
         transform: translate3d(0, -30px, 0);
     }
-
     70% {
         -webkit-animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
         animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
         -webkit-transform: translate3d(0, -15px, 0);
         transform: translate3d(0, -15px, 0);
     }
-
     90% {
         -webkit-transform: translate3d(0, -4px, 0);
         transform: translate3d(0, -4px, 0);
@@ -522,7 +490,6 @@ nav {
 }
 
 @keyframes bitcoin {
-
     from,
     20%,
     53%,
@@ -533,7 +500,6 @@ nav {
         -webkit-transform: translate3d(0, 0, 0);
         transform: translate3d(0, 0, 0);
     }
-
     40%,
     43% {
         -webkit-animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
@@ -541,14 +507,12 @@ nav {
         -webkit-transform: translate3d(0, -30px, 0);
         transform: translate3d(0, -30px, 0);
     }
-
     70% {
         -webkit-animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
         animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);
         -webkit-transform: translate3d(0, -15px, 0);
         transform: translate3d(0, -15px, 0);
     }
-
     90% {
         -webkit-transform: translate3d(0, -4px, 0);
         transform: translate3d(0, -4px, 0);
@@ -562,11 +526,7 @@ nav {
     transform-origin: center bottom;
 }
 
-
-
 .my_header {
-    /* position:absolute;
-    top: 0px; */
     height: 90px;
 }
 
@@ -581,11 +541,9 @@ nav {
     border-bottom-width: 2px;
 }
 
-
 .my_header button {
     margin-left: 350px
 }
-
 
 .info-mar h1 {
     font-family: iranyekan;
@@ -615,7 +573,6 @@ nav {
     font-family: iranyekan;
     height: 50px;
     background: #0D47A1;
-
 }
 
 .shadow-box{
@@ -638,7 +595,6 @@ nav {
 
 .tables table {
     font-family: iranyekan;
-
 }
 
 .info img {
@@ -659,14 +615,26 @@ nav {
     padding: 0px 55px
 }
 
+.coins h2 {
+    margin-top: 100px !important;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    margin-right: 55px;
+    width: 40px;
+    height: 40px;
+    font-family: 'Lovelo-LineLight';
+    font-size: 60px;
+    color: #d8d8d8;
+}
+
 .coins h1 {
     color: #0D47A1;
     font-family: iranyekan;
     font-weight: 800;
     direction: rtl !important;
-    margin-top: 120px;
+    /* margin-top: px; */
     margin-right: 50px;
-
 }
 
 .coins p {
@@ -678,7 +646,6 @@ nav {
 
 .coins img {
     padding-top: 60px;
-
 }
 
 .comments h1 {
@@ -693,7 +660,6 @@ nav {
     font-family: iranyekan;
     font-weight: 700;
     color: #0D47A1;
-    /* text-align: left; */
     padding-top: 35px;
     text-align: center;
     margin-bottom: 20px
@@ -701,9 +667,7 @@ nav {
 
 .comments p {
     font-family: iranyekan;
-    /* line-height: 50px; */
     padding-right: 25px;
-
 }
 
 .owl-size {
@@ -715,11 +679,9 @@ nav {
     .comments {
         width: 100vw
     }
-
     .comments p {
         line-height: 17px
     }
-
 }
 
 .footer_logos img {
@@ -777,38 +739,37 @@ footer p {
     font-family: iranyekan;
 }
 
-.map{
+.map {
     margin: 35px;
     padding: 50px;
 }
 
-.mapouter{
-    text-align:right;
-    height:400px !important;
-    width:100%;
+.mapouter {
+    text-align: right;
+    height: 400px !important;
+    width: 100%;
 }
 
 .gmap_canvas {
     border-radius: 20px;
-    overflow:hidden;
-    background:none!important;
-    height:400px;
-    width:100%;
+    overflow: hidden;
+    background: none !important;
+    height: 400px;
+    width: 100%;
 }
 
-.cont-form{
-    border: 1px solid rgb(172, 172, 172) ;
+.cont-form {
+    border: 1px solid rgb(172, 172, 172);
     font-family: iranyekan;
     border-radius: 10px;
 }
 
-.g-recaptcha{
+.g-recaptcha {
     float: right
 }
 
 .map {
     margin: 25px;
-
 }
 
 .mapouter {
@@ -831,14 +792,12 @@ footer p {
     direction: rtl !important;
     margin-top: 120px;
     margin-right: 50px;
-
 }
 
 .about_us_article p {
     font-family: iranyekan;
     font-size: 24px;
     margin-top: 52px;
-    padding-right: 50px
 }
 
 .header {
@@ -858,23 +817,24 @@ footer p {
     border-bottom-width: 2px;
 }
 
-.bout_us_line{
+.bout_us_line {
     background: #0D47A1;
 }
-.bout_us_line h1{
+
+.bout_us_line h1 {
     color: #fff;
     font-family: iranyekan;
     font-weight: 800;
-    /* display: inline-block; */
 }
-.forms{
+
+.forms {
     position: relative;
 }
-.info_pos{
+
+.info_pos {
     position: absolute;
     top: -15px;
     right: 13.5%;
     background: #fff;
     padding: 0px 15px;
-
 }
