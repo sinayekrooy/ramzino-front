@@ -9,6 +9,7 @@ $(document).ready(function () {
         autoplayHoverPause: true,
         mergeFit:true,
         dotsEach:true,
+        
         responsive: {
             0: {
                 items: 1,
