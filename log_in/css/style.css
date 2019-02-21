@@ -581,7 +581,10 @@ nav {
     background-color: #F6F6F6
 }
 .coin-p-plus {
-    color: rgb(51, 170, 5)
+    color: green
+}
+.coin-p-mines{
+    color: red
 }
 .tables {
     margin-top: 50px
