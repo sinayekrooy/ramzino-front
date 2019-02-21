@@ -444,6 +444,11 @@ header .header-scrolldown button i {
         /* background: none */
     }
 }
+.title-h {
+    font-size: 45px !important; 
+    font-weight: 800 !important;
+    font-family: iranyekan ;
+}
 
 nav {
     z-index: 2;
