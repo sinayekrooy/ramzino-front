@@ -618,6 +618,14 @@ nav {
 
 }
 
+.shadow-box{
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    border-radius: 5px ;
+    background-color: #F6F6F6
+}
+.coin-p-plus {
+    color: rgb(51, 170, 5)
+}
 .tables {
     margin-top: 50px
 }
