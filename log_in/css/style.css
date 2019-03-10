@@ -78,17 +78,21 @@
     url('../fonts/ttf/iranyekanwebextrablackfanum.ttf') format('truetype');
 }
 
-@font-face {font-family: "Lovelo-LineLight";
-    src: url("../fonts/e24bfa421d3de384b7f93fca31ef5ad6.eot"); /* IE9*/
+@font-face {
+    font-family: "Lovelo-LineLight";
+    src: url("../fonts/e24bfa421d3de384b7f93fca31ef5ad6.eot");
+    /* IE9*/
     src: url("../fonts/e24bfa421d3de384b7f93fca31ef5ad6.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
     url("../fonts/e24bfa421d3de384b7f93fca31ef5ad6.woff2") format("woff2"), /* chrome、firefox */
     url("../fonts/e24bfa421d3de384b7f93fca31ef5ad6.woff") format("woff"), /* chrome、firefox */
     url("../fonts/e24bfa421d3de384b7f93fca31ef5ad6.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
-    url("../fonts/e24bfa421d3de384b7f93fca31ef5ad6.svg#Lovelo-LineLight") format("svg"); /* iOS 4.1- */
-  }
+    url("../fonts/e24bfa421d3de384b7f93fca31ef5ad6.svg#Lovelo-LineLight") format("svg");
+    /* iOS 4.1- */
+}
 
 html {
     font-size: 1rem;
+    font-family: iranyekan !important;
 }
 
 @media (max-width: 575.98px) {
@@ -420,10 +424,11 @@ header .header-scrolldown button i {
         background: rgba(255, 254, 254, 1);
     }
 }
+
 .title-h {
-    font-size: 45px !important; 
+    font-size: 45px !important;
     font-weight: 800 !important;
-    font-family: iranyekan ;
+    font-family: iranyekan;
 }
 
 nav {
@@ -575,17 +580,20 @@ nav {
     background: #0D47A1;
 }
 
-.shadow-box{
+.shadow-box {
     box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
-    border-radius: 5px ;
+    border-radius: 5px;
     background-color: #F6F6F6
 }
+
 .coin-p-plus {
     color: green
 }
-.coin-p-mines{
+
+.coin-p-mines {
     color: red
 }
+
 .tables {
     margin-top: 50px
 }
