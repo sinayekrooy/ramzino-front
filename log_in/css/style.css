@@ -578,13 +578,21 @@ nav {
 .shadow-box{
     box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
     border-radius: 5px ;
-    background-color: #F6F6F6
+    background-color: #F6F6F6 ;
 }
 .coin-p-plus {
     color: green
 }
+.coin-p-plus img{
+    width: 35px;
+    margin-bottom: 10px
+}
 .coin-p-mines{
     color: red
+}
+.coin-p-mines img{
+    width: 35px;
+    margin-bottom: 10px
 }
 .tables {
     margin-top: 50px
@@ -623,7 +631,7 @@ nav {
     border-radius: 50%;
     display: inline-block;
     text-align: center;
-    margin-right: 55px;
+    margin-right: 65px;
     width: 40px;
     height: 40px;
     font-family: 'Lovelo-LineLight';
@@ -636,15 +644,14 @@ nav {
     font-family: iranyekan;
     font-weight: 800;
     direction: rtl !important;
-    /* margin-top: px; */
     margin-right: 50px;
 }
 
 .coins p {
     font-family: iranyekan;
-    font-size: 24px;
-    margin-top: 52px;
-    padding-right: 50px
+    font-size: 20px;
+    padding-right: 50px;
+    line-height: 30px
 }
 
 .coins img {
@@ -704,7 +711,7 @@ nav {
 
 footer {
     position: relative;
-    background: #0D47A1;
+    background: rgb(88, 88, 88);
     z-index: 0;
 }
 
@@ -715,7 +722,7 @@ footer a {
 }
 
 footer a:hover {
-    color: #0D47A1
+    color: #0D47A1;
 }
 
 .footer_scyle {
