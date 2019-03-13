@@ -51,3 +51,21 @@ $(document).ready(function () {
     });
 
 })
+$(function() {
+
+
+	$.scrollify({
+		section:".scroll",
+		//sectionName:false,
+		scrollSpeed:1100,
+		after:function(i) {
+
+
+
+
+		}
+	});
+
+
+
+});

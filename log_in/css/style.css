@@ -429,6 +429,7 @@ header .header-scrolldown button i {
     font-size: 45px !important;
     font-weight: 800 !important;
     font-family: iranyekan;
+    margin-top: 100px !important; 
 }
 
 nav {
@@ -858,3 +859,11 @@ footer p {
     background: #fff;
     padding: 0px 15px;
 }
+.snap-scroll {
+    flex-basis: 50%;
+    max-height: 100vh;
+    overflow-y: scroll;
+    -ms-scroll-snap-type: y mandatory;
+        scroll-snap-type: y mandatory;
+  }
+  
