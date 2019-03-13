@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 355 454" style="enable-background:new 0 0 355 454;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#333333;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:60px;}
+	.st4{fill-opacity:0.1;}
+	.st5{fill:none;stroke:#FFFFFF;stroke-width:15;stroke-linecap:square;stroke-miterlimit:3;}
+</style>
+<g>
+	<g>
+		<rect class="st0" width="355" height="454"/>
+		<g transform="matrix(1,0,0,1,172.701,553.743)">
+			<text transform="matrix(1.0431 0 0 1 -118.5571 -128.9998)" class="st1 st2 st3">Ramzino</text>
+		</g>
+		<ellipse vector-effect="non-scaling-stroke" class="st4" cx="177.6" cy="329.7" rx="85.8" ry="15.6"/>
+		<path vector-effect="non-scaling-stroke" class="st5" d="M83,255.9c-43.8-52.2-37-130.2,15.2-174c52.2-43.8,130.2-37,174,15.2
+			c43.8,52.2,37,130.2-15.2,174C204.8,315,126.8,308.2,83,255.9z"/>
+		<path class="st1" d="M224.2,227c2.2-5.2,1.6-11.4-2.3-15.9l0,0c-5.4-6.5-15.2-7.2-21.8-1.7c-6.6,5.5-7.5,15.3-2.1,21.7
+			c3.8,4.6,9.8,6.3,15.3,5l17.2,23.7l14-11.7L224.2,227z M78,255.9c-5.3-6.3-11.6-16.5-18.9-30.6L238.5,72
+			c13.6,10,23.1,18.4,28.8,25.1c43.8,52.2,37,130.2-15.2,174C199.8,315,121.8,308.2,78,255.9L78,255.9z"/>
+	</g>
+</g>
+</svg>
